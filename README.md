@@ -1,5 +1,7 @@
 # FastAPI + phddns single-image container
 
+doc: [https://service.oray.com/question/36626.html]https://service.oray.com/question/36626.html
+
 Project layout expected by the Dockerfile:
 
 ```text
