@@ -1,0 +1,2 @@
+# pdhdns-docker-mix
+使用花生壳贝锐内网穿透，在本地物理机对公网提供服务，项目中以FastAPI框架的python服务作为示例，实际使用中按照dockerfile直接打镜像即可
